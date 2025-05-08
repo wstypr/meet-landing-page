@@ -388,6 +388,20 @@ footer {
   .container {
     max-width: 1120px;
     margin: 0 auto;
+    padding: 0;
+  }
+
+  header {
+    padding-top: 80px;
+  }
+
+  .hero-title,
+  .hero-text {
+    margin-bottom: 32px;
+  }
+
+  .hero-btn-container {
+    margin-bottom: 24px;
   }
 
   .hero-img {
@@ -423,6 +437,10 @@ footer {
 
   .hero-text {
     font-size: 18px;
+  }
+
+  .number-01 {
+    margin-top: 0;
   }
 
   .feature-tagline {
